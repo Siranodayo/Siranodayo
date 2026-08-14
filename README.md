@@ -9,12 +9,12 @@
 
   <img src="https://komarev.com/ghpvc/?username=Siranodayo&label=profile%20views&color=94a3b8&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Siranodayo?label=followers&style=flat-square&color=94a3b8" alt="followers" />
-  <img src="https://img.shields.io/badge/Team-翠雨-f1f5f9?style=flat-square&labelColor=94a3b8" alt="Team" />
+  <a href="https://github.com/Team-Suiu"><img src="https://img.shields.io/badge/Team-翠雨-f1f5f9?style=flat-square&labelColor=94a3b8" alt="Team" /></a>
   <br /><br />
 
   <a href="https://x.com/b4qrbj"><img src="https://img.shields.io/badge/X-@b4qrbj-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/Siranodayo"><img src="https://img.shields.io/badge/GitHub-Siranodayo-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/Team-Suiu"><img src="https://img.shields.io/badge/Discord-siranonn-64748b?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/Discord-siranonn-64748b?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
 </div>
 
