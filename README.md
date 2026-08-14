@@ -14,7 +14,7 @@
 
   <a href="https://x.com/b4qrbj"><img src="https://img.shields.io/badge/X-@b4qrbj-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/Siranodayo"><img src="https://img.shields.io/badge/GitHub-Siranodayo-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Discord-siranonn-64748b?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://github.com/Team-Suiu"><img src="https://img.shields.io/badge/Discord-siranonn-64748b?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
 
